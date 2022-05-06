@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Logica_ClassLibrary
 {
-    public class Class1
+    public class LogicaUsuarios
     {
+        public int Test { get; set; }
+
 
     }
 }
