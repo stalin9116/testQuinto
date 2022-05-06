@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventas_WindowsForm", "Venta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_ClassLibrary", "Data_ClassLibrary\Data_ClassLibrary.csproj", "{4D62657B-96C3-4D61-A1F0-372742EDD6C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica_ClassLibrary", "Logica_ClassLibrary\Logica_ClassLibrary.csproj", "{7DC5EF5F-FAD2-4605-9E53-CA77993FD7E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4D62657B-96C3-4D61-A1F0-372742EDD6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D62657B-96C3-4D61-A1F0-372742EDD6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D62657B-96C3-4D61-A1F0-372742EDD6C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC5EF5F-FAD2-4605-9E53-CA77993FD7E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC5EF5F-FAD2-4605-9E53-CA77993FD7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC5EF5F-FAD2-4605-9E53-CA77993FD7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC5EF5F-FAD2-4605-9E53-CA77993FD7E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
